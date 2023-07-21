@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin-left: 25px;
+}
+
+ul {
+  font-size: 18px;
+}
+
+.service {
+  margin-top: 12px;
+}
+
+.name__service {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.desciption__service {
+  margin-bottom: 24px;
+}
